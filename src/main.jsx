@@ -9,3 +9,4 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 // hello my proekt
+// hello my proekt2

@@ -25,7 +25,7 @@ function App() {
 
             <div className="card-info">
               <h2>{char.name}</h2>
-
+<p>это проверка кода</p>
               <div className="status">
                 <span
                   className={`status-indicator ${
@@ -55,5 +55,6 @@ function App() {
     </div>
   );
 }
-
+const helllo = "hello";
+sldknv=-
 export default App;

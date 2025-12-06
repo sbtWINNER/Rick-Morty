@@ -8,3 +8,6 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+// hello my proekt
+// hello my proekt2
+// hello my proekt3

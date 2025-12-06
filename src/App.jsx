@@ -40,7 +40,7 @@ function App() {
                   {char.status} – {char.species}
                 </p>
               </div>
-
+dc
               <div className="extra-info">
                 <p className="label">Last known location:</p>
                 <p onClick={() => window.open("https://rickandmortyapi.com/api/location/" )} className="value">{char.location?.name}</p>
